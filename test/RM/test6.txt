@@ -1,0 +1,31 @@
+0       T1
+1       T1
+2       T2
+3       T2
+4       T1
+5       T1
+6         J1 has been delete
+T2
+7       T2
+8       T1
+9       T1
+10        J2 has been delete
+T2
+11      T2
+12      T1
+13      T1
+14      T2
+15      T2
+16      T1
+17      T1
+18      T2
+19      T2
+20        J1 has been delete
+T1
+
+Remain.
+  Job(1,6):ready time= 20  ,remain execution time= 1  ,absolute deadline= 24
+  Job(2,5):ready time= 20  ,remain execution time= 3  ,absolute deadline= 25
+  Job(3,2):ready time= 20  ,remain execution time= 5  ,absolute deadline= 40
+
+請按任意鍵繼續 . . .

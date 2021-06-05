@@ -1,0 +1,47 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10      T1
+11
+12
+13
+14      T1
+15      T2
+16      T2
+17
+18      T1
+19
+20      T2
+21      T2
+22      T1
+23      T3
+24      T3
+25      T2
+26      T1
+27      T2
+28      T3
+29      T3
+30      T1
+31      T2
+32      T2
+33      T3
+34      T1
+35      T2
+36      T2
+37
+38      T1
+39
+40      T2
+
+Remain.
+  Job(2,6):ready time= 40  ,remain execution time= 1  ,absolute deadline= 45
+  Job(3,2):ready time= 40  ,remain execution time= 5  ,absolute deadline= 60
+
+請按任意鍵繼續 . . .
