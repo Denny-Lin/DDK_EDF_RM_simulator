@@ -1,2 +1,2 @@
-# DDK_EDF-RM_simulator
+# DDK_EDF_RM_simulator
 To simulate OS schedule algorithms.
