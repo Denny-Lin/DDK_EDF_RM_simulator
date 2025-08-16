@@ -1,4 +1,4 @@
-# DDK_EDF_RM_Simulator
+# DDK-EDF-RM-simulator
 
 This project simulates two classic operating system scheduling algorithms:
 
